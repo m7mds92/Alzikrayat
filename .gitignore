@@ -1,0 +1,8 @@
+# Ignore uploaded user images
+public/images/uploads/*
+!public/images/uploads/.gitkeep
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+*.log
